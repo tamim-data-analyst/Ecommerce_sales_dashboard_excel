@@ -10,7 +10,6 @@ A comprehensive end-to-end business analytics project built on 51,290 global e-c
 ecommerce-analytics/
 │
 ├── E-Commerce_Dashboard_Analytics.xlsx   # Main workbook (data + original dashboard + pivot)
-├── E-Commerce_Enhanced_Dashboard.xlsx    # Enhanced dashboard with all new analytics sections
 ├── Ecommerce_Dashboard_Report.pdf        # Full write-up report (11 sections)
 ├── FORMULAS.md                           # All Excel formulas and logic used
 └── README.md                             # This file
@@ -119,32 +118,7 @@ A fully rebuilt analytics layer featuring:
 | Tool            | Purpose                                      |
 |-----------------|----------------------------------------------|
 | Microsoft Excel | Dashboard, pivot tables, slicers, charts     |
-| Python 3        | Data analysis and dashboard generation       |
-| pandas          | Data manipulation and metric calculation     |
-| openpyxl        | Excel file creation and formatting           |
-| reportlab       | PDF report generation                        |
 
----
-
-## 🚀 How to Use
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/ecommerce-analytics.git
-   cd ecommerce-analytics
-   ```
-
-2. **Open the Enhanced Dashboard**
-   Open `E-Commerce_Enhanced_Dashboard.xlsx` in Microsoft Excel or LibreOffice Calc.
-
-3. **Use Slicers** (in the Pivot & Slicers sheet) to filter by Month, Region, Category, or Segment interactively.
-
-4. **Read the Report**
-   Open `Ecommerce_Dashboard_Report.pdf` for the full analytical write-up with all findings and recommendations.
-
-5. **Refer to FORMULAS.md** for a breakdown of every metric, formula, and logic used in the dashboard.
-
----
 
 ## 📄 Report Contents (PDF)
 
@@ -160,14 +134,6 @@ The accompanying PDF report covers:
 9. Regional Performance
 10. Key Business Insights & Recommendations
 11. Summary of Dashboard Changes
-
----
-
-## 👤 Author
-
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 
 ---
 
